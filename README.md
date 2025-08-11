@@ -1,4 +1,4 @@
-# Proyecto Base de Angular 20 con Tailwind 4
+# Proyecto Base de Angular 20 con Tailwind 4 y PrimeNG v20
 
 ## Iniciar Proyecto
 
